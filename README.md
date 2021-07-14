@@ -13,6 +13,8 @@ Finalmente, debes correr el proyecto con el comando:
 `yarn start`
 ó
 `npm start`
+# Pauta completa de levantamiento
+https://drive.google.com/file/d/14GJGJcsJLEOq392hu4ikpykHsK4aqZLF/view
 
 # Demo 
 https://matias-rojas-dev.github.io/react-sia-project/
